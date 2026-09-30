@@ -152,5 +152,35 @@ namespace stajProjesi_29_09
             public string Word { get; set; }
             public int Count { get; set; }
         }
+
+        private void drop_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void content_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void title_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void layout_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void status_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
